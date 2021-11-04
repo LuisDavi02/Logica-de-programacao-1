@@ -1,2 +1,2 @@
-# L-gica-de-programa-o-1
+# Logica-de-programa-o-1
 Todos os programas aprendidos nas aulas.
